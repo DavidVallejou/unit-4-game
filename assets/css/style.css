@@ -1,0 +1,23 @@
+
+h1 {
+   
+  color: black;
+  text-align: center;
+  
+}
+  
+body {
+  background-image: url()
+}
+.win {
+  text-align: center;
+}
+.loss {
+  text-align: center;
+}
+.total {
+  text-align: center;
+}
+.randomNum {
+text-align: center;
+}
